@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nicolás Rojas
+# 👋 Hola, soy Nicolás Rojas Diaz
 Estudiante de Ingenieria Civil en Informática Egresado con espera a ser Titulado con gran interes en Ingeniería de Datos. Este es mi portafolio técnico con proyectos de ETL, visualización, OCR, y Data Lakes.  
 
 ## 🚀 Proyectos de Datos
